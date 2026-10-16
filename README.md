@@ -81,6 +81,7 @@ The dashboard includes:
 ### Dashboard Preview
 
 ![Nigeria Data Dashboard]
-(Nigeria-data-dashboard.png.png) 
+(Nigeria-data-dashboard.png.png)
+
 **Project 2:** Data Cleaning & Database Storage ✅  
 **Project 3:** GDP Data Pipeline & Database Storage ✅
