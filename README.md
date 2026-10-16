@@ -68,7 +68,7 @@ Notebook:
 - GitHub
 - World Bank Open Data
 
-- Nigeria Data Dashboard
+Nigeria Data Dashboard
 
 I created a dashboard in Metabase to explore Nigerian property listings and Nigeria's GDP over time.
 
@@ -78,10 +78,9 @@ The dashboard includes:
 - Listings by Property Type: shows the distribution of property listings by type.
 - Nigeria GDP Over Time: visualizes Nigeria's GDP trend across the available years.
 
-Dashboard Preview
+### Dashboard Preview
 
-![Nigeria Data Dashboard] 
-(nigeria-data-dashboard.png.png)
-
+![Nigeria Data Dashboard]
+(Nigeria-data-dashboard.png.png)
 **Project 2:** Data Cleaning & Database Storage ✅  
 **Project 3:** GDP Data Pipeline & Database Storage ✅
