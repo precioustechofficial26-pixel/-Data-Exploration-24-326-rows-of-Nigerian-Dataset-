@@ -22,7 +22,7 @@ Tools Used:
 
 Project 2 focused on exploring and cleaning the Nigerian property dataset, checking for missing values, inconsistent entries, and duplicate records.
 
-**Notebook:**[Nigeria Dataset](./Nigeria%20Dataset%20Exploration-checkpoint.ipynb)
+**Notebook:**[Nigeria Dataset-Exploration](./Nigeria%20Dataset%20Exploration-checkpoint.ipynb)
 
 Tools Used:
 
