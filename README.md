@@ -18,24 +18,9 @@ Tools Used:
 
 ---
 
-## Project 2: Nigerian Property Dataset Exploration and Cleaning
+## Project 2: Nigeria GDP Data Pipeline
 
-Project 2 focused on exploring and cleaning the Nigerian property dataset, checking for missing values, inconsistent entries, and duplicate records.
-
-**Notebook:**[Nigeria Dataset-Exploration](./Nigeria%20Dataset%20Exploration-checkpoint.ipynb)
-
-Tools Used:
-
-- Python
-- Pandas
-- Jupyter Notebook
-- SQL
-
----
-
-## Project 3: Nigeria GDP Data Pipeline
-
-Project 3 focused on preparing Nigeria’s GDP data using Python and loading it into Supabase. The dataset contains 66 records covering different years.
+Project 2 focused on preparing Nigeria’s GDP data using Python and loading it into Supabase. The dataset contains 66 records covering different years.
 
 **Notebook:**[nigerian_gdp](./nigerian_gdp-checkpoint.ipynb)
 
