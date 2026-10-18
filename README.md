@@ -76,11 +76,6 @@ The dashboard includes:
 
 - House Prices by State: compares average property prices across states.
 - Listings by Property Type: shows the distribution of property listings by type.
-- Nigeria GDP Over Time: visualizes Nigeria's GDP trend across the available years.
-
-### Dashboard Preview
-
-![Nigeria Data Dashboard]
-(Nigeria-data-dashboard.png.png)
-**ect 2:** Data Cleaning & Database Storage ✅  
+- Nigeria GDP Over Time: visualizes Nigeria's GDP trend across the available year
+**ect 2:** Data Cleaniabase Storage ✅  
 **Project 3:** GDP Data Pipeline & Database Storage ✅
