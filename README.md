@@ -8,7 +8,7 @@ This portfolio contains three data projects focused on Nigerian property listing
 
 Project 1 explored a Nigerian property dataset, including its structure, columns, and patterns in property listings.
 
-**Notebook:**[Project 1 Data Exploration](./Nigeria%20Dataset-checkpoint.ipynb)
+**Notebook:**[Nigeria-Dataset-Exploration](./Nigeria%20Dataset-checkpoint.ipynb)
 
 Tools Used:
 
@@ -22,7 +22,7 @@ Tools Used:
 
 Project 2 focused on exploring and cleaning the Nigerian property dataset, checking for missing values, inconsistent entries, and duplicate records.
 
-**Notebook:**[Project 2 Dataset Exploration and Cleaning](./Nigeria%20Dataset%20Exploration-checkpoint.ipynb)
+**Notebook:**[Nigeria Dataset](./Nigeria%20Dataset%20Exploration-checkpoint.ipynb)
 
 Tools Used:
 
@@ -37,7 +37,7 @@ Tools Used:
 
 Project 3 focused on preparing Nigeria’s GDP data using Python and loading it into Supabase. The dataset contains 66 records covering different years.
 
-**Notebook:**[Project 3 Nigeria GDP Pipeline](./nigerian_gdp-checkpoint.ipynb)
+**Notebook:**[nigerian_gdp](./nigerian_gdp-checkpoint.ipynb)
 
 ## Tools Used:
 
